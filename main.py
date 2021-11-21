@@ -34,7 +34,7 @@ Aphotopublikatsiy = []
 
 
 
-bot = telebot.TeleBot("1797750128:AAFlT0gB2tautHdS7swhajuYvk4BPKyFpis")
+bot = telebot.TeleBot("")
 
 button1 = types.KeyboardButton('Сайт')
 button2 = types.KeyboardButton('Оформити замовлення')
